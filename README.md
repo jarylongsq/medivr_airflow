@@ -44,5 +44,7 @@ Check http://localhost:8080/
 - `docker-compose down` - Stop containers
 
 Connecting to database:
+```
 username: airflow
 password: airflow
+```
